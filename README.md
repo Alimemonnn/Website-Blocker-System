@@ -7,7 +7,6 @@
 <p>
 A powerful desktop application built with <strong>Python</strong> and <strong>Tkinter</strong> that helps improve productivity by blocking distracting websites through the system <code>hosts</code> file.
 </p>
-
 <p>
 
 <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
